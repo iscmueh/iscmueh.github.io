@@ -363,21 +363,6 @@
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://examplesite.org/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://examplesite.org/fr/"
-                />
-  </url>
-  
-  <url>
     <loc>http://examplesite.org/fr/tags/english/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -509,6 +494,21 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://examplesite.org/fr/course/course-3/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/fr/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://examplesite.org/fr/"
                 />
   </url>
   
