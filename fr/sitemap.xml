@@ -3,991 +3,991 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://examplesite.org/fr/tags/advice/</loc>
+    <loc>http://localhost:1313/fr/tags/advice/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/tags/advice/"
+                href="http://localhost:1313/tags/advice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/tags/advice/"
+                href="http://localhost:1313/fr/tags/advice/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/tags/ai/</loc>
+    <loc>http://localhost:1313/fr/tags/ai/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/tags/ai/"
+                href="http://localhost:1313/tags/ai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/tags/ai/"
+                href="http://localhost:1313/fr/tags/ai/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/course/course-5/</loc>
+    <loc>http://localhost:1313/fr/course/course-5/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/course/course-5/"
+                href="http://localhost:1313/course/course-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/course/course-5/"
+                href="http://localhost:1313/fr/course/course-5/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/tags/automation/</loc>
+    <loc>http://localhost:1313/fr/tags/automation/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/tags/automation/"
+                href="http://localhost:1313/tags/automation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/tags/automation/"
+                href="http://localhost:1313/fr/tags/automation/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/categories/automation-system/</loc>
+    <loc>http://localhost:1313/fr/categories/automation-system/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/categories/automation-system/"
+                href="http://localhost:1313/categories/automation-system/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/categories/automation-system/"
+                href="http://localhost:1313/fr/categories/automation-system/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/categories/</loc>
+    <loc>http://localhost:1313/fr/categories/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/categories/"
+                href="http://localhost:1313/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/event/event-1/</loc>
+    <loc>http://localhost:1313/fr/event/event-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/event/event-1/"
+                href="http://localhost:1313/event/event-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/event/event-1/"
+                href="http://localhost:1313/fr/event/event-1/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/event/event-2/</loc>
+    <loc>http://localhost:1313/fr/event/event-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/event/event-2/"
+                href="http://localhost:1313/event/event-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/event/event-2/"
+                href="http://localhost:1313/fr/event/event-2/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/event/event-3/</loc>
+    <loc>http://localhost:1313/fr/event/event-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/event/event-3/"
+                href="http://localhost:1313/event/event-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/event/event-3/"
+                href="http://localhost:1313/fr/event/event-3/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/event/event-4/</loc>
+    <loc>http://localhost:1313/fr/event/event-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/event/event-4/"
+                href="http://localhost:1313/event/event-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/event/event-4/"
+                href="http://localhost:1313/fr/event/event-4/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/event/event-5/</loc>
+    <loc>http://localhost:1313/fr/event/event-5/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/event/event-5/"
+                href="http://localhost:1313/event/event-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/event/event-5/"
+                href="http://localhost:1313/fr/event/event-5/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/event/event-6/</loc>
+    <loc>http://localhost:1313/fr/event/event-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/event/event-6/"
+                href="http://localhost:1313/event/event-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/event/event-6/"
+                href="http://localhost:1313/fr/event/event-6/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/categories/deep-learning/</loc>
+    <loc>http://localhost:1313/fr/categories/deep-learning/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/categories/deep-learning/"
+                href="http://localhost:1313/categories/deep-learning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/categories/deep-learning/"
+                href="http://localhost:1313/fr/categories/deep-learning/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/blog/</loc>
+    <loc>http://localhost:1313/fr/blog/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/blog/"
+                href="http://localhost:1313/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/blog/"
+                href="http://localhost:1313/fr/blog/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/blog/blog-post-1/</loc>
+    <loc>http://localhost:1313/fr/blog/blog-post-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/blog/blog-post-1/"
+                href="http://localhost:1313/blog/blog-post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/blog/blog-post-1/"
+                href="http://localhost:1313/fr/blog/blog-post-1/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/blog/blog-post-2/</loc>
+    <loc>http://localhost:1313/fr/blog/blog-post-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/blog/blog-post-2/"
+                href="http://localhost:1313/blog/blog-post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/blog/blog-post-2/"
+                href="http://localhost:1313/fr/blog/blog-post-2/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/blog/blog-post-3/</loc>
+    <loc>http://localhost:1313/fr/blog/blog-post-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/blog/blog-post-3/"
+                href="http://localhost:1313/blog/blog-post-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/blog/blog-post-3/"
+                href="http://localhost:1313/fr/blog/blog-post-3/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/blog/blog-post-4/</loc>
+    <loc>http://localhost:1313/fr/blog/blog-post-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/blog/blog-post-4/"
+                href="http://localhost:1313/blog/blog-post-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/blog/blog-post-4/"
+                href="http://localhost:1313/fr/blog/blog-post-4/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/blog/blog-post-5/</loc>
+    <loc>http://localhost:1313/fr/blog/blog-post-5/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/blog/blog-post-5/"
+                href="http://localhost:1313/blog/blog-post-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/blog/blog-post-5/"
+                href="http://localhost:1313/fr/blog/blog-post-5/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/blog/blog-post-6/</loc>
+    <loc>http://localhost:1313/fr/blog/blog-post-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/blog/blog-post-6/"
+                href="http://localhost:1313/blog/blog-post-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/blog/blog-post-6/"
+                href="http://localhost:1313/fr/blog/blog-post-6/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/tags/eco/</loc>
+    <loc>http://localhost:1313/fr/tags/eco/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/tags/eco/"
+                href="http://localhost:1313/tags/eco/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/tags/eco/"
+                href="http://localhost:1313/fr/tags/eco/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/categories/eco-system/</loc>
+    <loc>http://localhost:1313/fr/categories/eco-system/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/categories/eco-system/"
+                href="http://localhost:1313/categories/eco-system/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/categories/eco-system/"
+                href="http://localhost:1313/fr/categories/eco-system/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/tags/education/</loc>
+    <loc>http://localhost:1313/fr/tags/education/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/tags/education/"
+                href="http://localhost:1313/tags/education/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/tags/education/"
+                href="http://localhost:1313/fr/tags/education/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/categories/education-system/</loc>
+    <loc>http://localhost:1313/fr/categories/education-system/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/categories/education-system/"
+                href="http://localhost:1313/categories/education-system/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/categories/education-system/"
+                href="http://localhost:1313/fr/categories/education-system/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/tags/english/</loc>
+    <loc>http://localhost:1313/fr/tags/english/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/tags/english/"
+                href="http://localhost:1313/tags/english/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/tags/english/"
+                href="http://localhost:1313/fr/tags/english/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/categories/english-learning/</loc>
+    <loc>http://localhost:1313/fr/categories/english-learning/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/categories/english-learning/"
+                href="http://localhost:1313/categories/english-learning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/categories/english-learning/"
+                href="http://localhost:1313/fr/categories/english-learning/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/research/research-1/</loc>
+    <loc>http://localhost:1313/fr/research/research-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/research/research-1/"
+                href="http://localhost:1313/research/research-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/research/research-1/"
+                href="http://localhost:1313/fr/research/research-1/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/research/research-2/</loc>
+    <loc>http://localhost:1313/fr/research/research-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/research/research-2/"
+                href="http://localhost:1313/research/research-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/research/research-2/"
+                href="http://localhost:1313/fr/research/research-2/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/research/research-3/</loc>
+    <loc>http://localhost:1313/fr/research/research-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/research/research-3/"
+                href="http://localhost:1313/research/research-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/research/research-3/"
+                href="http://localhost:1313/fr/research/research-3/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/research/research-4/</loc>
+    <loc>http://localhost:1313/fr/research/research-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/research/research-4/"
+                href="http://localhost:1313/research/research-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/research/research-4/"
+                href="http://localhost:1313/fr/research/research-4/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/research/research-5/</loc>
+    <loc>http://localhost:1313/fr/research/research-5/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/research/research-5/"
+                href="http://localhost:1313/research/research-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/research/research-5/"
+                href="http://localhost:1313/fr/research/research-5/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/research/research-6/</loc>
+    <loc>http://localhost:1313/fr/research/research-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/research/research-6/"
+                href="http://localhost:1313/research/research-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/research/research-6/"
+                href="http://localhost:1313/fr/research/research-6/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/course/course-3/</loc>
+    <loc>http://localhost:1313/fr/course/course-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/course/course-3/"
+                href="http://localhost:1313/course/course-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/course/course-3/"
+                href="http://localhost:1313/fr/course/course-3/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/</loc>
+    <loc>http://localhost:1313/fr/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/"
+                href="http://localhost:1313/fr/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/course/course-4/</loc>
+    <loc>http://localhost:1313/fr/course/course-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/course/course-4/"
+                href="http://localhost:1313/course/course-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/course/course-4/"
+                href="http://localhost:1313/fr/course/course-4/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/categories/mathmatics-learning/</loc>
+    <loc>http://localhost:1313/fr/categories/mathmatics-learning/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/categories/mathmatics-learning/"
+                href="http://localhost:1313/categories/mathmatics-learning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/categories/mathmatics-learning/"
+                href="http://localhost:1313/fr/categories/mathmatics-learning/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/course/course-2/</loc>
+    <loc>http://localhost:1313/fr/course/course-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/course/course-2/"
+                href="http://localhost:1313/course/course-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/course/course-2/"
+                href="http://localhost:1313/fr/course/course-2/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/notice/notice-1/</loc>
+    <loc>http://localhost:1313/fr/notice/notice-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/notice/notice-1/"
+                href="http://localhost:1313/notice/notice-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/notice/notice-1/"
+                href="http://localhost:1313/fr/notice/notice-1/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/notice/notice-2/</loc>
+    <loc>http://localhost:1313/fr/notice/notice-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/notice/notice-2/"
+                href="http://localhost:1313/notice/notice-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/notice/notice-2/"
+                href="http://localhost:1313/fr/notice/notice-2/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/notice/notice-3/</loc>
+    <loc>http://localhost:1313/fr/notice/notice-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/notice/notice-3/"
+                href="http://localhost:1313/notice/notice-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/notice/notice-3/"
+                href="http://localhost:1313/fr/notice/notice-3/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/notice/notice-4/</loc>
+    <loc>http://localhost:1313/fr/notice/notice-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/notice/notice-4/"
+                href="http://localhost:1313/notice/notice-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/notice/notice-4/"
+                href="http://localhost:1313/fr/notice/notice-4/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/notice/notice-5/</loc>
+    <loc>http://localhost:1313/fr/notice/notice-5/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/notice/notice-5/"
+                href="http://localhost:1313/notice/notice-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/notice/notice-5/"
+                href="http://localhost:1313/fr/notice/notice-5/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/notice/notice-6/</loc>
+    <loc>http://localhost:1313/fr/notice/notice-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/notice/notice-6/"
+                href="http://localhost:1313/notice/notice-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/notice/notice-6/"
+                href="http://localhost:1313/fr/notice/notice-6/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/course/</loc>
+    <loc>http://localhost:1313/fr/course/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/course/"
+                href="http://localhost:1313/course/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/course/"
+                href="http://localhost:1313/fr/course/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/event/</loc>
+    <loc>http://localhost:1313/fr/event/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/event/"
+                href="http://localhost:1313/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/event/"
+                href="http://localhost:1313/fr/event/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/research/</loc>
+    <loc>http://localhost:1313/fr/research/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/research/"
+                href="http://localhost:1313/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/research/"
+                href="http://localhost:1313/fr/research/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/notice/</loc>
+    <loc>http://localhost:1313/fr/notice/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/notice/"
+                href="http://localhost:1313/notice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/notice/"
+                href="http://localhost:1313/fr/notice/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/course/course-1/</loc>
+    <loc>http://localhost:1313/fr/course/course-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/course/course-1/"
+                href="http://localhost:1313/course/course-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/course/course-1/"
+                href="http://localhost:1313/fr/course/course-1/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/tags/rules/</loc>
+    <loc>http://localhost:1313/fr/tags/rules/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/tags/rules/"
+                href="http://localhost:1313/tags/rules/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/tags/rules/"
+                href="http://localhost:1313/fr/tags/rules/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/tags/</loc>
+    <loc>http://localhost:1313/fr/tags/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/tags/"
+                href="http://localhost:1313/fr/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/course/course-6/</loc>
+    <loc>http://localhost:1313/fr/course/course-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/course/course-6/"
+                href="http://localhost:1313/course/course-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/course/course-6/"
+                href="http://localhost:1313/fr/course/course-6/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/teacher/alex-rook/</loc>
+    <loc>http://localhost:1313/fr/teacher/alex-rook/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/teacher/alex-rook/"
+                href="http://localhost:1313/teacher/alex-rook/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/teacher/alex-rook/"
+                href="http://localhost:1313/fr/teacher/alex-rook/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/author/</loc>
+    <loc>http://localhost:1313/fr/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/author/"
+                href="http://localhost:1313/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/author/"
+                href="http://localhost:1313/fr/author/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/scholarship/</loc>
+    <loc>http://localhost:1313/fr/scholarship/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/scholarship/"
+                href="http://localhost:1313/scholarship/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/scholarship/"
+                href="http://localhost:1313/fr/scholarship/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/teacher/clark-malik/</loc>
+    <loc>http://localhost:1313/fr/teacher/clark-malik/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/teacher/clark-malik/"
+                href="http://localhost:1313/teacher/clark-malik/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/teacher/clark-malik/"
+                href="http://localhost:1313/fr/teacher/clark-malik/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/teacher/devid-luis/</loc>
+    <loc>http://localhost:1313/fr/teacher/devid-luis/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/teacher/devid-luis/"
+                href="http://localhost:1313/teacher/devid-luis/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/teacher/devid-luis/"
+                href="http://localhost:1313/fr/teacher/devid-luis/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/teacher/duis-rio/</loc>
+    <loc>http://localhost:1313/fr/teacher/duis-rio/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/teacher/duis-rio/"
+                href="http://localhost:1313/teacher/duis-rio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/teacher/duis-rio/"
+                href="http://localhost:1313/fr/teacher/duis-rio/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/scholarship/scholarship-1/</loc>
+    <loc>http://localhost:1313/fr/scholarship/scholarship-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/scholarship/scholarship-1/"
+                href="http://localhost:1313/scholarship/scholarship-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/scholarship/scholarship-1/"
+                href="http://localhost:1313/fr/scholarship/scholarship-1/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/scholarship/scholarship-2/</loc>
+    <loc>http://localhost:1313/fr/scholarship/scholarship-2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/scholarship/scholarship-2/"
+                href="http://localhost:1313/scholarship/scholarship-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/scholarship/scholarship-2/"
+                href="http://localhost:1313/fr/scholarship/scholarship-2/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/scholarship/scholarship-3/</loc>
+    <loc>http://localhost:1313/fr/scholarship/scholarship-3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/scholarship/scholarship-3/"
+                href="http://localhost:1313/scholarship/scholarship-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/scholarship/scholarship-3/"
+                href="http://localhost:1313/fr/scholarship/scholarship-3/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/teacher/jacke-mastio/</loc>
+    <loc>http://localhost:1313/fr/teacher/jacke-mastio/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/teacher/jacke-mastio/"
+                href="http://localhost:1313/teacher/jacke-mastio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/teacher/jacke-mastio/"
+                href="http://localhost:1313/fr/teacher/jacke-mastio/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/author/john-doe/</loc>
+    <loc>http://localhost:1313/fr/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/author/john-doe/"
+                href="http://localhost:1313/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/author/john-doe/"
+                href="http://localhost:1313/fr/author/john-doe/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/author/mark-dinn/</loc>
+    <loc>http://localhost:1313/fr/author/mark-dinn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/author/mark-dinn/"
+                href="http://localhost:1313/author/mark-dinn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/author/mark-dinn/"
+                href="http://localhost:1313/fr/author/mark-dinn/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/teacher/</loc>
+    <loc>http://localhost:1313/fr/teacher/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/teacher/"
+                href="http://localhost:1313/teacher/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/teacher/"
+                href="http://localhost:1313/fr/teacher/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/teacher/zim-cook/</loc>
+    <loc>http://localhost:1313/fr/teacher/zim-cook/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/teacher/zim-cook/"
+                href="http://localhost:1313/teacher/zim-cook/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/teacher/zim-cook/"
+                href="http://localhost:1313/fr/teacher/zim-cook/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/about/</loc>
+    <loc>http://localhost:1313/fr/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/about/"
+                href="http://localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/about/"
+                href="http://localhost:1313/fr/about/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/fr/contact/</loc>
+    <loc>http://localhost:1313/fr/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/contact/"
+                href="http://localhost:1313/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/contact/"
+                href="http://localhost:1313/fr/contact/"
                 />
   </url>
   
