@@ -153,36 +153,6 @@
   </url>
   
   <url>
-    <loc>https://iscmueh.github.io/course/course-5/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://iscmueh.github.io/fr/course/course-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/course/course-5/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iscmueh.github.io/course/course-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://iscmueh.github.io/fr/course/course-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/course/course-3/"
-                />
-  </url>
-  
-  <url>
     <loc>https://iscmueh.github.io/tags/automation/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -393,6 +363,36 @@
   </url>
   
   <url>
+    <loc>https://iscmueh.github.io/studiolab/blog-post-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/studiolab/blog-post-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/studiolab/blog-post-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/studiolab/blog-post-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/studiolab/blog-post-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/studiolab/blog-post-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://iscmueh.github.io/tags/english/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -513,21 +513,6 @@
   </url>
   
   <url>
-    <loc>https://iscmueh.github.io/course/course-4/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://iscmueh.github.io/fr/course/course-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/course/course-4/"
-                />
-  </url>
-  
-  <url>
     <loc>https://iscmueh.github.io/blog/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -543,18 +528,8 @@
   </url>
   
   <url>
-    <loc>https://iscmueh.github.io/course/course-2/</loc>
+    <loc>https://iscmueh.github.io/course/master-01/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://iscmueh.github.io/fr/course/course-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/course/course-2/"
-                />
   </url>
   
   <url>
@@ -570,6 +545,11 @@
                 hreflang="en"
                 href="https://iscmueh.github.io/categories/mathmatics-learning/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/studiolab/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
@@ -618,21 +598,6 @@
   </url>
   
   <url>
-    <loc>https://iscmueh.github.io/course/course-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://iscmueh.github.io/fr/course/course-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/course/course-1/"
-                />
-  </url>
-  
-  <url>
     <loc>https://iscmueh.github.io/tags/rules/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -645,6 +610,11 @@
                 hreflang="en"
                 href="https://iscmueh.github.io/tags/rules/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/course/bachelor-01/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
@@ -753,21 +723,6 @@
   </url>
   
   <url>
-    <loc>https://iscmueh.github.io/course/course-6/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://iscmueh.github.io/fr/course/course-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/course/course-6/"
-                />
-  </url>
-  
-  <url>
     <loc>https://iscmueh.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -807,6 +762,10 @@
                 hreflang="en"
                 href="https://iscmueh.github.io/teacher/alex-rook/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/team/alex-rook/</loc>
   </url>
   
   <url>
@@ -880,6 +839,10 @@
   </url>
   
   <url>
+    <loc>https://iscmueh.github.io/team/clark-malik/</loc>
+  </url>
+  
+  <url>
     <loc>https://iscmueh.github.io/teacher/devid-luis/</loc>
     <xhtml:link
                 rel="alternate"
@@ -891,6 +854,10 @@
                 hreflang="en"
                 href="https://iscmueh.github.io/teacher/devid-luis/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/team/devid-luis/</loc>
   </url>
   
   <url>
@@ -908,6 +875,10 @@
   </url>
   
   <url>
+    <loc>https://iscmueh.github.io/team/duis-rio/</loc>
+  </url>
+  
+  <url>
     <loc>https://iscmueh.github.io/teacher/jacke-mastio/</loc>
     <xhtml:link
                 rel="alternate"
@@ -919,6 +890,10 @@
                 hreflang="en"
                 href="https://iscmueh.github.io/teacher/jacke-mastio/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/team/jacke-mastio/</loc>
   </url>
   
   <url>
@@ -978,6 +953,10 @@
   </url>
   
   <url>
+    <loc>https://iscmueh.github.io/team/</loc>
+  </url>
+  
+  <url>
     <loc>https://iscmueh.github.io/teacher/zim-cook/</loc>
     <xhtml:link
                 rel="alternate"
@@ -989,6 +968,10 @@
                 hreflang="en"
                 href="https://iscmueh.github.io/teacher/zim-cook/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/team/zim-cook/</loc>
   </url>
   
 </urlset>
