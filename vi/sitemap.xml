@@ -764,6 +764,48 @@
   </url>
   
   <url>
+    <loc>https://iscmueh.github.io/vi/team/dr-hyung-tae-gun/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/team/dr-hyung-tae-gun/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/team/dr-hyung-tae-gun/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/vi/team/dr-lee-ju-ho/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/team/dr-lee-ju-ho/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/team/dr-lee-ju-ho/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/vi/team/dr-park-young-june/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/team/dr-park-young-june/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/team/dr-park-young-june/"
+                />
+  </url>
+  
+  <url>
     <loc>https://iscmueh.github.io/vi/teacher/duis-rio/</loc>
     <xhtml:link
                 rel="alternate"
@@ -788,6 +830,20 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://iscmueh.github.io/vi/teacher/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/vi/team/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/team/"
                 />
   </url>
   

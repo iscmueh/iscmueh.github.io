@@ -310,15 +310,6 @@
     </item>
     
     <item>
-      <title>Alex Rook</title>
-      <link>https://iscmueh.github.io/team/alex-rook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/team/alex-rook/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
       <title>CHEMICAL ENGINEERING</title>
       <link>https://iscmueh.github.io/scholarship/scholarship-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -355,15 +346,6 @@
     </item>
     
     <item>
-      <title>Clark Malik</title>
-      <link>https://iscmueh.github.io/team/clark-malik/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/team/clark-malik/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
       <title>Devid Luis</title>
       <link>https://iscmueh.github.io/teacher/devid-luis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -373,12 +355,30 @@
     </item>
     
     <item>
-      <title>Devid Luis</title>
-      <link>https://iscmueh.github.io/team/devid-luis/</link>
+      <title>Dr. Hyung Tae Gun</title>
+      <link>https://iscmueh.github.io/team/dr-hyung-tae-gun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://iscmueh.github.io/team/devid-luis/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://iscmueh.github.io/team/dr-hyung-tae-gun/</guid>
+      <description>À propos de moi Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Dr. Lee Ju-Ho</title>
+      <link>https://iscmueh.github.io/team/dr-lee-ju-ho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/team/dr-lee-ju-ho/</guid>
+      <description>À propos de moi Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Dr. Park Young June</title>
+      <link>https://iscmueh.github.io/team/dr-park-young-june/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/team/dr-park-young-june/</guid>
+      <description>À propos de moi Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
@@ -391,29 +391,11 @@
     </item>
     
     <item>
-      <title>Duis Rio</title>
-      <link>https://iscmueh.github.io/team/duis-rio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/team/duis-rio/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
       <title>Jacke Mastio</title>
       <link>https://iscmueh.github.io/teacher/jacke-mastio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/teacher/jacke-mastio/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Jacke Mastio</title>
-      <link>https://iscmueh.github.io/team/jacke-mastio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/team/jacke-mastio/</guid>
       <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
@@ -441,15 +423,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/teacher/zim-cook/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Zim Cook</title>
-      <link>https://iscmueh.github.io/team/zim-cook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/team/zim-cook/</guid>
       <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

@@ -785,10 +785,6 @@
   </url>
   
   <url>
-    <loc>https://iscmueh.github.io/team/alex-rook/</loc>
-  </url>
-  
-  <url>
     <loc>https://iscmueh.github.io/author/</loc>
     <xhtml:link
                 rel="alternate"
@@ -859,10 +855,6 @@
   </url>
   
   <url>
-    <loc>https://iscmueh.github.io/team/clark-malik/</loc>
-  </url>
-  
-  <url>
     <loc>https://iscmueh.github.io/teacher/devid-luis/</loc>
     <xhtml:link
                 rel="alternate"
@@ -877,7 +869,45 @@
   </url>
   
   <url>
-    <loc>https://iscmueh.github.io/team/devid-luis/</loc>
+    <loc>https://iscmueh.github.io/team/dr-hyung-tae-gun/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/team/dr-hyung-tae-gun/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/team/dr-hyung-tae-gun/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/team/dr-lee-ju-ho/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/team/dr-lee-ju-ho/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/team/dr-lee-ju-ho/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/team/dr-park-young-june/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/team/dr-park-young-june/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/team/dr-park-young-june/"
+                />
   </url>
   
   <url>
@@ -895,10 +925,6 @@
   </url>
   
   <url>
-    <loc>https://iscmueh.github.io/team/duis-rio/</loc>
-  </url>
-  
-  <url>
     <loc>https://iscmueh.github.io/teacher/jacke-mastio/</loc>
     <xhtml:link
                 rel="alternate"
@@ -910,10 +936,6 @@
                 hreflang="en"
                 href="https://iscmueh.github.io/teacher/jacke-mastio/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://iscmueh.github.io/team/jacke-mastio/</loc>
   </url>
   
   <url>
@@ -974,6 +996,16 @@
   
   <url>
     <loc>https://iscmueh.github.io/team/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/team/"
+                />
   </url>
   
   <url>
@@ -988,10 +1020,6 @@
                 hreflang="en"
                 href="https://iscmueh.github.io/teacher/zim-cook/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://iscmueh.github.io/team/zim-cook/</loc>
   </url>
   
 </urlset>
