@@ -3,6 +3,110 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://iscmueh.github.io/scholarship/scholarship-1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/scholarship/scholarship-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/scholarship/scholarship-1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/members/dr-tu-anh-trinh/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/advisory/dr-nguyen-dong-phong/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/advisory/dr-hyung-tae-gun/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/scholarship/scholarship-2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/scholarship/scholarship-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/scholarship/scholarship-2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/members/dr-rob/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/members/dr-ducsu-seo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/members/dr-nam-le/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/advisory/dr-park-young-june/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/advisory/dr-khuat-viet-hung/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/members/dr-to-kien/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/advisory/dr-lee-ju-ho/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/members/dr-chamunkoo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/members/msc-hoai-pham/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/members/msc-le-viet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/members/msc-le-an/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/members/msc-maitran/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/members/msc-hanhan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/members/mar-steven/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/members/mar-thangtrinh/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/members/me-duongquy/</loc>
+  </url>
+  
+  <url>
     <loc>https://iscmueh.github.io/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -120,6 +224,136 @@
                 hreflang="en"
                 href="https://iscmueh.github.io/event/event-6/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/event/international-summer-design-camp-2021-smart-design-city-for-zero-carbon-emission/</loc>
+    <lastmod>2021-06-19T13:01:44+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/event/international-summer-design-camp-2021-smart-design-city-for-zero-carbon-emission/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/event/international-summer-design-camp-2021-smart-design-city-for-zero-carbon-emission/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/event/webinar-blockchain-for-defi-cryptocurrency-blockchain-in-current-and-future-economy/</loc>
+    <lastmod>2021-06-04T14:25:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/event/the-opening-ceremony-of-the-city-science-lab-ho-chi-minh-city/</loc>
+    <lastmod>2021-04-24T07:22:33+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/event/the-opening-ceremony-of-the-city-science-lab-ho-chi-minh-city/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/event/the-opening-ceremony-of-the-city-science-lab-ho-chi-minh-city/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/event/thi%E1%BA%BFt-k%E1%BA%BF-%C4%91%C3%B4-th%E1%BB%8B-t%E1%BA%A7m-nh%C3%ACn-v%E1%BB%AFng-ch%E1%BA%AFc-cho-%C4%91%C3%B4-th%E1%BB%8B-b%E1%BB%81n-v%E1%BB%AFng/</loc>
+    <lastmod>2021-04-04T06:20:42+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/event/thi%E1%BA%BFt-k%E1%BA%BF-%C4%91%C3%B4-th%E1%BB%8B-t%E1%BA%A7m-nh%C3%ACn-v%E1%BB%AFng-ch%E1%BA%AFc-cho-%C4%91%C3%B4-th%E1%BB%8B-b%E1%BB%81n-v%E1%BB%AFng/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/event/thi%E1%BA%BFt-k%E1%BA%BF-%C4%91%C3%B4-th%E1%BB%8B-t%E1%BA%A7m-nh%C3%ACn-v%E1%BB%AFng-ch%E1%BA%AFc-cho-%C4%91%C3%B4-th%E1%BB%8B-b%E1%BB%81n-v%E1%BB%AFng/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/event/2021-international-design-competition-smartcity/</loc>
+    <lastmod>2021-04-04T05:50:50+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/event/2021-international-design-competition-smartcity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/event/2021-international-design-competition-smartcity/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/event/webinar-a-new-understanding-of-the-imperative-of-healthy-city-design-official-starts/</loc>
+    <lastmod>2021-03-16T10:43:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/event/ph%E1%BB%A5c-h%E1%BB%93i-du-l%E1%BB%8Bch-v%C3%A0-n%E1%BB%97-l%E1%BB%B1c-tho%C3%A1t-kh%E1%BB%8Fi-v%C3%B2ng-xo%C3%A1y-%E1%BA%A3nh-h%C6%B0%E1%BB%9Fng-b%E1%BB%9Fi-covid-19/</loc>
+    <lastmod>2021-03-12T15:48:02+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/event/ph%E1%BB%A5c-h%E1%BB%93i-du-l%E1%BB%8Bch-v%C3%A0-n%E1%BB%97-l%E1%BB%B1c-tho%C3%A1t-kh%E1%BB%8Fi-v%C3%B2ng-xo%C3%A1y-%E1%BA%A3nh-h%C6%B0%E1%BB%9Fng-b%E1%BB%9Fi-covid-19/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/event/ph%E1%BB%A5c-h%E1%BB%93i-du-l%E1%BB%8Bch-v%C3%A0-n%E1%BB%97-l%E1%BB%B1c-tho%C3%A1t-kh%E1%BB%8Fi-v%C3%B2ng-xo%C3%A1y-%E1%BA%A3nh-h%C6%B0%E1%BB%9Fng-b%E1%BB%9Fi-covid-19/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/event/workshop-and-webinar-international-week-staycation-the-hospitable-city-why-not/</loc>
+    <lastmod>2021-03-01T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/event/on-the-line-of-smartcity-arttech-fusion-program-of-iscm-event-series-2021/</loc>
+    <lastmod>2021-01-10T21:21:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/event/culture-cohesion-and-civic-society-how-smart-cities-build-on-the-best-of-our-past/</loc>
+    <lastmod>2020-12-28T03:57:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/event/unviersity-of-economics-ho-chi-minh-city-hosted-the-southeast-region-of-the-national-festival-for-innovative-startups-techfest-2020/</loc>
+    <lastmod>2020-11-25T05:36:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/event/international-launch-event/</loc>
+    <lastmod>2020-09-30T06:34:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/event/smart-campus-planning-toward-satellite-city-college-town/</loc>
+    <lastmod>2020-09-25T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/event/innovative-approach-1/</loc>
+    <lastmod>2020-09-24T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/event/sustainable-transport-safety/</loc>
+    <lastmod>2020-09-23T07:00:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/event/innovative-approach/</loc>
+    <lastmod>2020-09-22T11:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -803,48 +1037,6 @@
   </url>
   
   <url>
-    <loc>https://iscmueh.github.io/scholarship/scholarship-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/scholarship/scholarship-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/scholarship/scholarship-1/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iscmueh.github.io/scholarship/scholarship-2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/scholarship/scholarship-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/scholarship/scholarship-2/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iscmueh.github.io/scholarship/scholarship-3/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/scholarship/scholarship-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/scholarship/scholarship-3/"
-                />
-  </url>
-  
-  <url>
     <loc>https://iscmueh.github.io/teacher/clark-malik/</loc>
     <xhtml:link
                 rel="alternate"
@@ -873,77 +1065,17 @@
   </url>
   
   <url>
-    <loc>https://iscmueh.github.io/advisory/dr-hyung-tae-gun/</loc>
-  </url>
-  
-  <url>
-    <loc>https://iscmueh.github.io/team/dr-hyung-tae-gun/</loc>
+    <loc>https://iscmueh.github.io/scholarship/scholarship-3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://iscmueh.github.io/vi/team/dr-hyung-tae-gun/"
+                href="https://iscmueh.github.io/vi/scholarship/scholarship-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iscmueh.github.io/team/dr-hyung-tae-gun/"
+                href="https://iscmueh.github.io/scholarship/scholarship-3/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://iscmueh.github.io/advisory/dr-khuat-viet-hung/</loc>
-  </url>
-  
-  <url>
-    <loc>https://iscmueh.github.io/team/dr-khuat-viet-hung/</loc>
-  </url>
-  
-  <url>
-    <loc>https://iscmueh.github.io/advisory/dr-lee-ju-ho/</loc>
-  </url>
-  
-  <url>
-    <loc>https://iscmueh.github.io/team/dr-lee-ju-ho/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/team/dr-lee-ju-ho/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/team/dr-lee-ju-ho/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iscmueh.github.io/team/dr-nam-le/</loc>
-  </url>
-  
-  <url>
-    <loc>https://iscmueh.github.io/team/dr-nguyen-dong-phong/</loc>
-  </url>
-  
-  <url>
-    <loc>https://iscmueh.github.io/advisory/dr-park-young-june/</loc>
-  </url>
-  
-  <url>
-    <loc>https://iscmueh.github.io/team/dr-park-young-june/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/team/dr-park-young-june/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/team/dr-park-young-june/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iscmueh.github.io/team/dr-tu-anh-trinh/</loc>
   </url>
   
   <url>
@@ -1021,7 +1153,19 @@
   </url>
   
   <url>
-    <loc>https://iscmueh.github.io/advisory/dr-nguyen-dong-phong/</loc>
+    <loc>https://iscmueh.github.io/members/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/people/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/people/advisory/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/people/members/</loc>
   </url>
   
   <url>
