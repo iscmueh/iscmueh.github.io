@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
-    <lastBuildDate>Sat, 19 Jun 2021 13:01:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jul 2021 15:27:17 +0600</lastBuildDate>
     
 	<atom:link href="https://iscmueh.github.io/vi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,12 +22,12 @@
     </item>
     
     <item>
-      <title>Dr. Nam Le</title>
-      <link>https://iscmueh.github.io/vi/recruit/scholarship-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Quản Lý Tài Sản</title>
+      <link>https://iscmueh.github.io/vi/consultancy/assetmanagement/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://iscmueh.github.io/vi/recruit/scholarship-1/</guid>
-      <description> institutes Smart-affiliated research dgfasfas sfasfasf asffasd asfsd Digital Access to Scholarship Smart Catalyst Smart Library Portal Smart research programs  </description>
+      <guid>https://iscmueh.github.io/vi/consultancy/assetmanagement/</guid>
+      <description>Tối ưu hóa hệ thống quản lý bằng các mô hình toán thống kê cao cấp, giúp chủ đầu tư tiết kiệm chi phí vận hành.</description>
     </item>
     
     <item>
@@ -85,21 +85,21 @@
     </item>
     
     <item>
+      <title>Phân Tích Không Gian Địa Lý</title>
+      <link>https://iscmueh.github.io/vi/consultancy/spatial-analysis/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/consultancy/spatial-analysis/</guid>
+      <description>Xử dụng các công cụ phân tích không gian trên nền tảng GIS và toán thống kê kết hợp với xử lý dư liệu.</description>
+    </item>
+    
+    <item>
       <title>Dr. Hyung Tae Gun</title>
       <link>https://iscmueh.github.io/vi/advisory/dr-hyung-tae-gun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/advisory/dr-hyung-tae-gun/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Dr. Trinh Tu Anh</title>
-      <link>https://iscmueh.github.io/vi/recruit/scholarship-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/recruit/scholarship-2/</guid>
-      <description> institutes Smart-affiliated research Digital Access to Scholarship Smart Catalyst Smart Library Portal Smart research programs  </description>
     </item>
     
     <item>
@@ -118,6 +118,15 @@
       
       <guid>https://iscmueh.github.io/vi/network/bth/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Đánh Giá Kĩ Thuật</title>
+      <link>https://iscmueh.github.io/vi/consultancy/tdd/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/consultancy/tdd/</guid>
+      <description>Giúp nhà đầu tư đánh giá kĩ thuật các hệ thống tòa nhà và hệ thống công trình kĩ thuật.</description>
     </item>
     
     <item>
@@ -157,6 +166,15 @@
     </item>
     
     <item>
+      <title>Đánh Giá Tác Động Giao Thông (TIA)</title>
+      <link>https://iscmueh.github.io/vi/consultancy/traffic-impact-assessment/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/consultancy/traffic-impact-assessment/</guid>
+      <description>Phân tích kĩ thuật và đánh giá tác động về giao thông liên quan tới các dự án xây dựng đô thị và cơ sở hạ tầng.</description>
+    </item>
+    
+    <item>
       <title>Dr. Khuat Viet Hung</title>
       <link>https://iscmueh.github.io/vi/advisory/dr-khuat-viet-hung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -184,6 +202,15 @@
     </item>
     
     <item>
+      <title>Lập Mô Hình Giao Thông</title>
+      <link>https://iscmueh.github.io/vi/consultancy/traffic-modelling/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/consultancy/traffic-modelling/</guid>
+      <description>Xây dựng các mô hình giao thông từ vi mô đến vĩ mô, tính toán bài toán đầu tư lớn tuyến hay giao thông qua mô hình VISIM, VISUM và Agent Based Modelling.</description>
+    </item>
+    
+    <item>
       <title>Politechnico Di Milano</title>
       <link>https://iscmueh.github.io/vi/network/politech-minalo/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
@@ -199,6 +226,15 @@
       
       <guid>https://iscmueh.github.io/vi/advisory/dr-lee-ju-ho/</guid>
       <description>À propos de moi Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>An Toàn Giao Thông</title>
+      <link>https://iscmueh.github.io/vi/consultancy/traffic-safety/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/consultancy/traffic-safety/</guid>
+      <description>Phân tích và đánh giá hành vi của người tham gia giao thông. Các rủi do dẫn đến tai nạn và đề xuất biện pháp giảm thiểu tai nạn và rủi do.</description>
     </item>
     
     <item>
@@ -346,6 +382,15 @@
     </item>
     
     <item>
+      <title>Đang Được Xây Dựng</title>
+      <link>https://iscmueh.github.io/vi/blog/blog-post-1/</link>
+      <pubDate>Tue, 06 Jul 2021 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/blog/blog-post-1/</guid>
+      <description>The standard Lorem Ipsum passage, used since the 1500s </description>
+    </item>
+    
+    <item>
       <title>INTERNATIONAL SUMMER DESIGN CAMP 2021: Smart Design City for Zero Carbon Emission</title>
       <link>https://iscmueh.github.io/vi/event/international-summer-design-camp-2021-smart-design-city-for-zero-carbon-emission/</link>
       <pubDate>Sat, 19 Jun 2021 13:01:44 +0000</pubDate>
@@ -382,123 +427,6 @@
     </item>
     
     <item>
-      <title>Asset Management</title>
-      <link>https://iscmueh.github.io/vi/consultancy/assetmanagement/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/consultancy/assetmanagement/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Dioramas de boîtes coupées élégantes</title>
-      <link>https://iscmueh.github.io/vi/blog/blog-post-1/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/blog/blog-post-1/</guid>
-      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Dioramas de boîtes coupées élégantes</title>
-      <link>https://iscmueh.github.io/vi/blog/blog-post-2/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/blog/blog-post-2/</guid>
-      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Dioramas de boîtes coupées élégantes</title>
-      <link>https://iscmueh.github.io/vi/blog/blog-post-3/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/blog/blog-post-3/</guid>
-      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Dioramas de boîtes coupées élégantes</title>
-      <link>https://iscmueh.github.io/vi/blog/blog-post-4/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/blog/blog-post-4/</guid>
-      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Dioramas de boîtes coupées élégantes</title>
-      <link>https://iscmueh.github.io/vi/blog/blog-post-5/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/blog/blog-post-5/</guid>
-      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Dioramas de boîtes coupées élégantes</title>
-      <link>https://iscmueh.github.io/vi/blog/blog-post-6/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/blog/blog-post-6/</guid>
-      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Geographie</title>
-      <link>https://iscmueh.github.io/vi/research/research-1/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/research/research-1/</guid>
-      <description>À propos de la recherche Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Géographie</title>
-      <link>https://iscmueh.github.io/vi/research/research-2/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/research/research-2/</guid>
-      <description>À propos de la recherche Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Géographie</title>
-      <link>https://iscmueh.github.io/vi/research/research-3/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/research/research-3/</guid>
-      <description>À propos de la recherche Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Géographie</title>
-      <link>https://iscmueh.github.io/vi/research/research-4/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/research/research-4/</guid>
-      <description>À propos de la recherche Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Géographie</title>
-      <link>https://iscmueh.github.io/vi/research/research-5/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/research/research-5/</guid>
-      <description>À propos de la recherche Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Géographie</title>
-      <link>https://iscmueh.github.io/vi/research/research-6/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/research/research-6/</guid>
-      <description>À propos de la recherche Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
       <title>Kiến Trúc và Thiết Kế Đô Thị Thông Minh</title>
       <link>https://iscmueh.github.io/vi/course/bachelor-01/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
@@ -514,105 +442,6 @@
       
       <guid>https://iscmueh.github.io/vi/course/master-01/</guid>
       <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Matériaux d’enseignement et méthodes de test</title>
-      <link>https://iscmueh.github.io/vi/notice/notice-1/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/notice/notice-1/</guid>
-      <description>À propos de la notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Matériaux d’enseignement et méthodes de test</title>
-      <link>https://iscmueh.github.io/vi/notice/notice-2/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/notice/notice-2/</guid>
-      <description>À propos de la notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Matériaux d’enseignement et méthodes de test</title>
-      <link>https://iscmueh.github.io/vi/notice/notice-3/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/notice/notice-3/</guid>
-      <description>À propos de la notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Matériaux d’enseignement et méthodes de test</title>
-      <link>https://iscmueh.github.io/vi/notice/notice-4/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/notice/notice-4/</guid>
-      <description>À propos de la notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Matériaux d’enseignement et méthodes de test</title>
-      <link>https://iscmueh.github.io/vi/notice/notice-5/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/notice/notice-5/</guid>
-      <description>À propos de la notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Matériaux d’enseignement et méthodes de test</title>
-      <link>https://iscmueh.github.io/vi/notice/notice-6/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/notice/notice-6/</guid>
-      <description>À propos de la notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Spatial Analysis</title>
-      <link>https://iscmueh.github.io/vi/consultancy/spatial-analysis/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/consultancy/spatial-analysis/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Technical Due Diligence</title>
-      <link>https://iscmueh.github.io/vi/consultancy/tdd/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/consultancy/tdd/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Traffic Impact Assessment</title>
-      <link>https://iscmueh.github.io/vi/consultancy/traffic-impact-assessment/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/consultancy/traffic-impact-assessment/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Traffic Modelling</title>
-      <link>https://iscmueh.github.io/vi/consultancy/traffic-modelling/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/consultancy/traffic-modelling/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Traffic Safety</title>
-      <link>https://iscmueh.github.io/vi/consultancy/traffic-safety/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/consultancy/traffic-safety/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
@@ -653,15 +482,6 @@ Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc
     </item>
     
     <item>
-      <title>Dr. AA</title>
-      <link>https://iscmueh.github.io/vi/recruit/scholarship-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/recruit/scholarship-3/</guid>
-      <description> institutes Smart-affiliated research Digital Access to Scholarship Smart Catalyst Smart Library Portal Smart research programs  </description>
-    </item>
-    
-    <item>
       <title>Dr. Hyung Tae Gun</title>
       <link>https://iscmueh.github.io/vi/team/dr-hyung-tae-gun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -698,33 +518,6 @@ Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc
     </item>
     
     <item>
-      <title>GÉNIE CHIMIQUE</title>
-      <link>https://iscmueh.github.io/vi/scholarship/scholarship-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/scholarship/scholarship-1/</guid>
-      <description> instituts Recherche intelligemment affiliée Accès numérique aux bourses d’étude Catalyse intelligente Portail vers une bibliothèque intelligente Programmes de recherche intelligente  </description>
-    </item>
-    
-    <item>
-      <title>GÉNIE CHIMIQUE</title>
-      <link>https://iscmueh.github.io/vi/scholarship/scholarship-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/scholarship/scholarship-2/</guid>
-      <description> instituts Recherche intelligemment affiliée Accès numérique aux bourses d’étude Catalyse intelligente Portail vers une bibliothèque intelligente Programmes de recherche intelligente  </description>
-    </item>
-    
-    <item>
-      <title>GÉNIE CHIMIQUE</title>
-      <link>https://iscmueh.github.io/vi/scholarship/scholarship-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/scholarship/scholarship-3/</guid>
-      <description> instituts Recherche intelligemment affiliée Accès numérique aux bourses d’étude Catalyse intelligente Portail vers une bibliothèque intelligente Programmes de recherche intelligente  </description>
-    </item>
-    
-    <item>
       <title>Jacke Mastio</title>
       <link>https://iscmueh.github.io/vi/teacher/jacke-mastio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -749,6 +542,15 @@ Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc
       
       <guid>https://iscmueh.github.io/vi/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
+    </item>
+    
+    <item>
+      <title>UEH Cấp 170 Học Bổng Cho Sinh Viên Quốc Tế</title>
+      <link>https://iscmueh.github.io/vi/scholarship/scholarship-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/scholarship/scholarship-1/</guid>
+      <description></description>
     </item>
     
     <item>
