@@ -1426,36 +1426,6 @@
   </url>
   
   <url>
-    <loc>https://iscmueh.github.io/studiolab/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/studiolab/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/studiolab/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iscmueh.github.io/studiolab/index1/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/studiolab/index1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/studiolab/index1/"
-                />
-  </url>
-  
-  <url>
     <loc>https://iscmueh.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
