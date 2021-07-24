@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Consultancy Services on Institute of Smart City &amp; Management</title>
+    <link>https://iscmueh.github.io/consultancy/</link>
+    <description>Recent content in Consultancy Services on Institute of Smart City &amp; Management</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
+    
+	<atom:link href="https://iscmueh.github.io/consultancy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Asset Management</title>
+      <link>https://iscmueh.github.io/consultancy/assetmanagement/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/consultancy/assetmanagement/</guid>
+      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Spatial Analysis</title>
+      <link>https://iscmueh.github.io/consultancy/spatial-analysis/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/consultancy/spatial-analysis/</guid>
+      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Technical Due Diligence</title>
+      <link>https://iscmueh.github.io/consultancy/tdd/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/consultancy/tdd/</guid>
+      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Traffic Impact Assessment</title>
+      <link>https://iscmueh.github.io/consultancy/traffic-impact-assessment/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/consultancy/traffic-impact-assessment/</guid>
+      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Traffic Modelling</title>
+      <link>https://iscmueh.github.io/consultancy/traffic-modelling/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/consultancy/traffic-modelling/</guid>
+      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Traffic Safety</title>
+      <link>https://iscmueh.github.io/consultancy/traffic-safety/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/consultancy/traffic-safety/</guid>
+      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>
