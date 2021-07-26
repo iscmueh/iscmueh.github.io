@@ -205,20 +205,6 @@
   </url>
   
   <url>
-    <loc>https://iscmueh.github.io/vi/members/dr-nam-le/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/members/dr-nam-le/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/members/dr-nam-le/"
-                />
-  </url>
-  
-  <url>
     <loc>https://iscmueh.github.io/vi/advisory/dr-park-young-june/</loc>
     <xhtml:link
                 rel="alternate"
@@ -229,6 +215,20 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://iscmueh.github.io/vi/advisory/dr-park-young-june/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/vi/members/dr-nam-le/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/members/dr-nam-le/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/members/dr-nam-le/"
                 />
   </url>
   
