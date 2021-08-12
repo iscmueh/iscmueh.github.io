@@ -7,15 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
-<<<<<<< HEAD
     <lastBuildDate>Tue, 06 Jul 2021 15:27:17 +0600</lastBuildDate><atom:link href="https://iscmueh.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-=======
-    <lastBuildDate>Tue, 06 Jul 2021 15:27:17 +0600</lastBuildDate>
-    
-	<atom:link href="https://iscmueh.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
->>>>>>> 08294b43b990d767cea3fa979277aa73d01fb1d8
     <item>
       <title>Under Construction</title>
       <link>https://iscmueh.github.io/blog/blog-post-1/</link>
@@ -26,8 +18,4 @@
     </item>
     
   </channel>
-<<<<<<< HEAD
 </rss>
-=======
-</rss>
->>>>>>> 08294b43b990d767cea3fa979277aa73d01fb1d8

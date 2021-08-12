@@ -7,15 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
-<<<<<<< HEAD
     <lastBuildDate>Tue, 06 Jul 2021 15:27:17 +0600</lastBuildDate><atom:link href="https://iscmueh.github.io/vi/index.xml" rel="self" type="application/rss+xml" />
-=======
-    <lastBuildDate>Tue, 06 Jul 2021 15:27:17 +0600</lastBuildDate>
-    
-	<atom:link href="https://iscmueh.github.io/vi/index.xml" rel="self" type="application/rss+xml" />
-    
-    
->>>>>>> 08294b43b990d767cea3fa979277aa73d01fb1d8
     <item>
       <title>Handong Global University</title>
       <link>https://iscmueh.github.io/vi/network/handong-global-uni/</link>
@@ -206,7 +198,6 @@
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>MSc. Hai Hoang</title>
       <link>https://iscmueh.github.io/vi/members/msc-hai-hoang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -234,8 +225,6 @@
     </item>
     
     <item>
-=======
->>>>>>> 08294b43b990d767cea3fa979277aa73d01fb1d8
       <title>Lập Mô Hình Giao Thông</title>
       <link>https://iscmueh.github.io/vi/consultancy/traffic-modelling/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
@@ -367,11 +356,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/members/msc-le-an/</guid>
-<<<<<<< HEAD
       <description>Courses  Phân tích dữ liệu đô thị Công cụ số hóa và dữ liệu lớn Hệ thống thông tin địa lý Đô thị thông minh và cải tiến đô thị  Qualifications </description>
-=======
-      <description>Courses  Urban Resilience and Risk Assessment Data Analytics and Solutions for Architect and Urban Planner Asset Management for Buildings and Engineering Systems System Engineering Project Management  Qualifications  Doctor of Philosophy in Engineering, Kyoto University, Japan (2009) Master of Engineering, Asian Institute of Technology (AIT), Thailand (2004) Bachelor of Art in Linguistic (major English), College of Foreign Language, National University of Vietnam, Hanoi (2002) Bachelor of Engineering, Construction Engineering and Management, University of Transport and Communication, Hanoi (2000)  </description>
->>>>>>> 08294b43b990d767cea3fa979277aa73d01fb1d8
     </item>
     
     <item>
@@ -570,11 +555,7 @@
       
       <guid>https://iscmueh.github.io/vi/event/2021-international-design-competition-smartcity/</guid>
       <description>About Event ____________
-<<<<<<< HEAD
 Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc tế lần thứ 1 trong năm 2019 với chủ đề “Future City: Smart design for the post-pandemic world&amp;quot;, cuộc thi thường niên do Viện Đô thị thông minh và quản lý - ĐH Kinh tế TP.</description>
-=======
-Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc tế lần thứ 1 trong năm 2019 với chủ đề “Future City: Smart design for the post-pandemic world&amp;rdquo;, cuộc thi thường niên do Viện Đô thị thông minh và quản lý - ĐH Kinh tế TP.</description>
->>>>>>> 08294b43b990d767cea3fa979277aa73d01fb1d8
     </item>
     
     <item>
@@ -686,8 +667,4 @@ Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc
     </item>
     
   </channel>
-<<<<<<< HEAD
 </rss>
-=======
-</rss>
->>>>>>> 08294b43b990d767cea3fa979277aa73d01fb1d8
