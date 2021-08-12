@@ -7,7 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Tue, 06 Jul 2021 15:27:17 +0600</lastBuildDate><atom:link href="https://iscmueh.github.io/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <lastBuildDate>Tue, 06 Jul 2021 15:27:17 +0600</lastBuildDate>
+    
+	<atom:link href="https://iscmueh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+>>>>>>> 08294b43b990d767cea3fa979277aa73d01fb1d8
     <item>
       <title>Asset Management</title>
       <link>https://iscmueh.github.io/consultancy/assetmanagement/</link>
@@ -189,6 +197,7 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>Dr. Ngoc T. Nguyen</title>
       <link>https://iscmueh.github.io/members/dr-ngoc-t-nguyen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -198,6 +207,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> 08294b43b990d767cea3fa979277aa73d01fb1d8
       <title>Dr. To Kien</title>
       <link>https://iscmueh.github.io/members/dr-to-kien/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -207,6 +218,7 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>M.Sc Tam Do</title>
       <link>https://iscmueh.github.io/members/msc-tam-do/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -225,6 +237,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> 08294b43b990d767cea3fa979277aa73d01fb1d8
       <title>Prof. Dr. Kwon Youngsang</title>
       <link>https://iscmueh.github.io/adjunctprofessors/pro-kwon-young-sang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -365,7 +379,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/members/msc-le-an/</guid>
+<<<<<<< HEAD
       <description>Courses  Urban Data Analytics Digital tools &amp;amp; Big data Geographic Information System Smart City and Urban Intervention  Qualifications </description>
+=======
+      <description>Courses  Urban Resilience and Risk Assessment Data Analytics and Solutions for Architect and Urban Planner Asset Management for Buildings and Engineering Systems System Engineering Project Management  Qualifications  Doctor of Philosophy in Engineering, Kyoto University, Japan (2009) Master of Engineering, Asian Institute of Technology (AIT), Thailand (2004) Bachelor of Art in Linguistic (major English), College of Foreign Language, National University of Vietnam, Hanoi (2002) Bachelor of Engineering, Construction Engineering and Management, University of Transport and Communication, Hanoi (2000)  </description>
+>>>>>>> 08294b43b990d767cea3fa979277aa73d01fb1d8
     </item>
     
     <item>
@@ -554,7 +572,11 @@
       <pubDate>Wed, 23 Sep 2020 07:00:12 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/event/sustainable-transport-safety/</guid>
+<<<<<<< HEAD
       <description>Transport safety has always been a thorny issue that accounts for the majority of society&amp;rsquo;s concern, especially with the continued proliferation of private vehicles day by day.</description>
+=======
+      <description>Transport safety has always been a thorny issue that accounts for the majority of society&#39;s concern, especially with the continued proliferation of private vehicles day by day.</description>
+>>>>>>> 08294b43b990d767cea3fa979277aa73d01fb1d8
     </item>
     
     <item>
@@ -702,4 +724,8 @@
     </item>
     
   </channel>
+<<<<<<< HEAD
 </rss>
+=======
+</rss>
+>>>>>>> 08294b43b990d767cea3fa979277aa73d01fb1d8

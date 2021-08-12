@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<<<<<<< HEAD
   
   <sitemap>
     <loc>https://iscmueh.github.io/en/sitemap.xml</loc>
@@ -15,4 +16,21 @@
     
   </sitemap>
   
+=======
+	
+	<sitemap>
+	   	<loc>https://iscmueh.github.io/en/sitemap.xml</loc>
+		
+	   	<lastmod>2021-07-06T15:27:17+06:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://iscmueh.github.io/vi/sitemap.xml</loc>
+		
+	   	<lastmod>2021-07-06T15:27:17+06:00</lastmod>
+		
+	</sitemap>
+	
+>>>>>>> 08294b43b990d767cea3fa979277aa73d01fb1d8
 </sitemapindex>

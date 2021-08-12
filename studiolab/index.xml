@@ -6,6 +6,16 @@
     <description>Recent content in Modern Studio LAB on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright><atom:link href="https://iscmueh.github.io/studiolab/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
+=======
+    <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
+    
+	<atom:link href="https://iscmueh.github.io/studiolab/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
+>>>>>>> 08294b43b990d767cea3fa979277aa73d01fb1d8
