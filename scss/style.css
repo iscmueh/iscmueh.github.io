@@ -357,7 +357,7 @@ a h4:hover {
       height: 10px;
       width: 10px;
       border-radius: 50%;
-      background: #ec0808;
+      background: #536872;
       left: -25px;
       top: 5px; }
 
@@ -416,7 +416,7 @@ textarea.form-control {
       font-size: 14px;
       left: 0;
       top: 1px;
-      color: #536872;
+      color: #fd0000;
       transition: .3s ease; }
 
 .content table {
