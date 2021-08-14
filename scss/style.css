@@ -243,8 +243,9 @@ a h4:hover {
     width: 100%;
     top: 0;
     left: 0;
-    background:#fc0000;
-    opacity: 0.8 ; }
+    background:#f1e3e3;
+    opacity: 0.1 ; }
+
 
 .outline-0 {
   outline: 0 !important; }
@@ -581,7 +582,7 @@ link:focus,
   bottom: -123px;
   z-index: 9;
   padding: 15px;
-  color: rgb(255, 0, 0);
+  color: rgb(199, 157, 157);
   border: 0;
   font-size: 30px;
   transition: all linear .2s;
@@ -591,7 +592,7 @@ link:focus,
     outline: 0; }
   .hero-slider .prevArrow:hover,
   .hero-slider .nextArrow:hover {
-    color: #ff0000; }
+    color: #dda2a2; }
 
 .hero-slider .prevArrow {
   right: 60px; }
@@ -773,10 +774,10 @@ link:focus,
   height: 90px; }
 
 .bg-footer {
-  background-color: #e70a0a; }
+  background-color: #d69b9b; }
 
 .bg-footer2 {
-  background-color: #e70a0a; }
+  background-color: #ebb6b6; }
   
 .logo-footer {
   margin-top: -20px;
