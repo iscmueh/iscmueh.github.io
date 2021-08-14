@@ -416,7 +416,7 @@ textarea.form-control {
       font-size: 14px;
       left: 0;
       top: 1px;
-      color: #fd0000;
+      color: #536872;
       transition: .3s ease; }
 
 .content table {
@@ -622,7 +622,7 @@ link:focus,
 /* banner feature */
 .feature-icon {
   font-size: 50px;
-  color: #536872;
+  color: #ff0000;
   display: inline-block; }
 
 .feature-blocks {
@@ -743,7 +743,7 @@ link:focus,
 /* /teacher */
 /* footer */
 .newsletter {
-  background-image: linear-gradient(to right, transparent 50%, #ff0000 100%);
+  background-image: linear-gradient(to right, transparent 50%, #536872 50%);
   margin-bottom: -170px;
   position: relative;
   z-index: 1; }
