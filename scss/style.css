@@ -243,7 +243,7 @@ a h4:hover {
     width: 100%;
     top: 0;
     left: 0;
-    background: #5d8aa8;
+    background: #ff0202;
     opacity: .8; }
 
 .outline-0 {
@@ -622,7 +622,7 @@ link:focus,
 /* banner feature */
 .feature-icon {
   font-size: 50px;
-  color: #ff0000;
+  color: #536872;
   display: inline-block; }
 
 .feature-blocks {
