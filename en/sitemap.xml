@@ -61,6 +61,10 @@
   </url>
   
   <url>
+    <loc>https://iscmueh.github.io/competitive/smartcityplus/</loc>
+  </url>
+  
+  <url>
     <loc>https://iscmueh.github.io/scholarship/scholarship-1/</loc>
     <xhtml:link
                 rel="alternate"
@@ -116,6 +120,10 @@
                 hreflang="en"
                 href="https://iscmueh.github.io/advisory/dr-hyung-tae-gun/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/competitive/futurecity/</loc>
   </url>
   
   <url>
@@ -1282,6 +1290,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://iscmueh.github.io/teacher/clark-malik/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/competitive/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/competitive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/competitive/"
                 />
   </url>
   

@@ -1423,6 +1423,20 @@
   </url>
   
   <url>
+    <loc>https://iscmueh.github.io/vi/competitive/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/competitive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/competitive/"
+                />
+  </url>
+  
+  <url>
     <loc>https://iscmueh.github.io/vi/research/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1479,6 +1493,10 @@
   </url>
   
   <url>
+    <loc>https://iscmueh.github.io/vi/competitive/smart-tourism/</loc>
+  </url>
+  
+  <url>
     <loc>https://iscmueh.github.io/vi/research/smart-tourism/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1532,6 +1550,10 @@
                 hreflang="vi"
                 href="https://iscmueh.github.io/vi/scholarship/scholarship-1/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/vi/competitive/zero-waste/</loc>
   </url>
   
   <url>
