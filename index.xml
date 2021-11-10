@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
+<<<<<<< HEAD
+    <lastBuildDate>Tue, 09 Nov 2021 19:00:00 +0000</lastBuildDate><atom:link href="https://iscmueh.github.io/index.xml" rel="self" type="application/rss+xml" />
+=======
     <lastBuildDate>Sat, 09 Oct 2021 18:00:00 +0000</lastBuildDate><atom:link href="https://iscmueh.github.io/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 6b83279024089181f90b75a17063d4cea38f804e
     <item>
       <title>Asset Management</title>
       <link>https://iscmueh.github.io/consultancy/assetmanagement/</link>
@@ -378,6 +382,15 @@
     </item>
     
     <item>
+      <title>M.Sc Tam Do</title>
+      <link>https://iscmueh.github.io/members/msc-tam-do/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/members/msc-tam-do/</guid>
+      <description>Courses  Smart Urban Design Urban Planning New urban Economics and city marketing  Academic and Research Profile  Collaborator in Research at Institute of Smart City and Management (ISCM-UEH) Master of Science in Sustainable Urban Development at Vietnamese Germane University (VGU) Regional and Urban Planning Engineer at Ton Duc Thang University (TDTU)  International Experiences  Urban designer at B+H Architects Urban and Landscape designer at Lascal  </description>
+    </item>
+    
+    <item>
       <title>Coming Soon</title>
       <link>https://iscmueh.github.io/network/unai/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
@@ -405,6 +418,15 @@
     </item>
     
     <item>
+      <title>ME. Loc Duong Quy</title>
+      <link>https://iscmueh.github.io/members/me-duongquyloc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/members/me-duongquyloc/</guid>
+      <description>Academic and Research Profile  Master of Engineering, Urban and Transportation planning, Kongju National University, Korea (2019) Bachelor, Urban planning, Ton Duc Thang University, Vietnam (2017)  </description>
+    </item>
+    
+    <item>
       <title>B.Sc. An Le</title>
       <link>https://iscmueh.github.io/members/msc-le-an/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -414,12 +436,21 @@
     </item>
     
     <item>
-      <title>M.Sc Tam Do</title>
-      <link>https://iscmueh.github.io/members/msc-tam-do/</link>
+      <title>MA. Lai Phuong Dung</title>
+      <link>https://iscmueh.github.io/members/phuong-dung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://iscmueh.github.io/members/msc-tam-do/</guid>
-      <description>Courses  Smart Urban Design Urban Planning New urban Economics and city marketing  Academic and Research Profile  Collaborator in Research at Institute of Smart City and Management (ISCM-UEH) Master of Science in Sustainable Urban Development at Vietnamese Germane University (VGU) Regional and Urban Planning Engineer at Ton Duc Thang University (TDTU)  International Experiences  Urban designer at B+H Architects Urban and Landscape designer at Lascal  </description>
+      <guid>https://iscmueh.github.io/members/phuong-dung/</guid>
+      <description>Academic  DMaster of Logistics Management, Rotterdam Business School, Rotterdam University of Applied Sciences, the Netherlands, 2018 Bachelor of Finance and Banking, Ho Chi Minh City Open University, 2015  Experiences  Research management and International affairs Support, School of Government, University of Economics HCMC, 2020 - 2021 Purchasing executive, De Heus LLC, 2018 - 2020 Event assistant, Tunisia Trade &amp;amp; Investment Seminar organized by Evofenedex, the Foreign Investment Promotion Agency of Tunisia and the Tunisian Embassy, Apr 2017 Interpreter, Inbound Delegation from Vinh Long Province – Vietnam event organized by De Heus International, CGCB International and the Province of Gelderland, Nov 2016  </description>
+    </item>
+    
+    <item>
+      <title>ME. Loc Duong Quy</title>
+      <link>https://iscmueh.github.io/members/me-duongquyloc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/members/me-duongquyloc/</guid>
+      <description>Academic and Research Profile  Master of Engineering, Urban and Transportation planning, Kongju National University, Korea (2019) Bachelor, Urban planning, Ton Duc Thang University, Vietnam (2017)  </description>
     </item>
     
     <item>
@@ -441,24 +472,51 @@
     </item>
     
     <item>
-      <title>ME. Loc Duong Quy</title>
-      <link>https://iscmueh.github.io/members/me-duongquyloc/</link>
+<<<<<<< HEAD
+      <title>Intern.  Le Trung Ba Van (Ivan)</title>
+      <link>https://iscmueh.github.io/members/intern-le-trung-ba-van/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://iscmueh.github.io/members/me-duongquyloc/</guid>
-      <description>Academic and Research Profile  Master of Engineering, Urban and Transportation planning, Kongju National University, Korea (2019) Bachelor, Urban planning, Ton Duc Thang University, Vietnam (2017)  </description>
+      <guid>https://iscmueh.github.io/members/intern-le-trung-ba-van/</guid>
+      <description>Marketing intern In charge of content management (including content writing, content presentation, etc) on social media channels.</description>
     </item>
     
     <item>
-      <title>Pham Hoa Anh Dao</title>
-      <link>https://iscmueh.github.io/members/intern-dao-pham/</link>
+      <title>Intern.  Hoang Van Long</title>
+      <link>https://iscmueh.github.io/members/intern-hoang-van-long/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://iscmueh.github.io/members/intern-dao-pham/</guid>
-      <description></description>
+      <guid>https://iscmueh.github.io/members/intern-hoang-van-long/</guid>
+      <description>In charge of content management (including content writing, content presentation, etc) on social media channels.</description>
     </item>
     
     <item>
+      <title>Intern Nguyen Anh Quan</title>
+      <link>https://iscmueh.github.io/members/intern-nguyen-anh-quan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/members/intern-nguyen-anh-quan/</guid>
+      <description>In charge of creating education platform through Adobe Captive for the Institute.</description>
+    </item>
+    
+    <item>
+      <title>ORIENTATION DAY - MASTER OF SMART CITY AND INNOVATION MANAGMENT</title>
+      <link>https://iscmueh.github.io/event/2021-masterorientation-day-en/</link>
+      <pubDate>Tue, 09 Nov 2021 19:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/event/2021-masterorientation-day-en/</guid>
+      <description>____________
+The Institute of Smart Cities and Management (ISCM) is delighted to welcome the first generation of the Executive Master of Smart City and Innovation courses in 2021.</description>
+    </item>
+    
+    <item>
+      <title>Admission consulting</title>
+      <link>https://iscmueh.github.io/event/tu-van-tuyen-sinh-en/</link>
+      <pubDate>Mon, 16 Aug 2021 15:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/event/tu-van-tuyen-sinh-en/</guid>
+      <description>About Event Choosing a major to follow is not easy for students and parents.</description>
+=======
       <title>Judging Panel Event - Slogan Competition “For The Multidisciplinary And Sustainable UEH University</title>
       <link>https://iscmueh.github.io/event/slogan/</link>
       <pubDate>Sat, 09 Oct 2021 18:00:00 +0000</pubDate>
@@ -492,6 +550,7 @@
       
       <guid>https://iscmueh.github.io/event/international-webinar-toward-bldg/</guid>
       <description>About Event A webinar entitled “International webinar towards bldg. Resilient &amp;amp; Sustainable Communities through Disaster Mitigation” held by University of Northern Philippines, University of The Cordilleras and Nueva Ecija University of Science and Technology will take place on August 27th and 28th.</description>
+>>>>>>> 6b83279024089181f90b75a17063d4cea38f804e
     </item>
     
     <item>

@@ -499,6 +499,18 @@
                 href="https://iscmueh.github.io/vi/members/mar-steven/"
                 />
   </url><url>
+    <loc>https://iscmueh.github.io/vi/members/msc-tam-do/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/members/msc-tam-do/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/members/msc-tam-do/"
+                />
+  </url><url>
     <loc>https://iscmueh.github.io/vi/network/unai/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -537,6 +549,18 @@
                 href="https://iscmueh.github.io/vi/members/msc-hanhan/"
                 />
   </url><url>
+    <loc>https://iscmueh.github.io/vi/members/me-duongquyloc/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/members/me-duongquyloc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/members/me-duongquyloc/"
+                />
+  </url><url>
     <loc>https://iscmueh.github.io/vi/members/msc-le-an/</loc>
     <xhtml:link
                 rel="alternate"
@@ -549,16 +573,32 @@
                 href="https://iscmueh.github.io/vi/members/msc-le-an/"
                 />
   </url><url>
-    <loc>https://iscmueh.github.io/vi/members/msc-tam-do/</loc>
+<<<<<<< HEAD
+    <loc>https://iscmueh.github.io/vi/members/me-duongquyloc/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iscmueh.github.io/members/msc-tam-do/"
+                href="https://iscmueh.github.io/members/me-duongquyloc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://iscmueh.github.io/vi/members/msc-tam-do/"
+                href="https://iscmueh.github.io/vi/members/me-duongquyloc/"
+                />
+  </url><url>
+    <loc>https://iscmueh.github.io/vi/members/msc-tam-do/</loc>
+=======
+    <loc>https://iscmueh.github.io/vi/members/phuong-dung/</loc>
+>>>>>>> 6b83279024089181f90b75a17063d4cea38f804e
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/members/phuong-dung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/members/phuong-dung/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/vi/members/msc-hai-hoang/</loc>
@@ -585,40 +625,34 @@
                 href="https://iscmueh.github.io/vi/members/mar-thangtrinh/"
                 />
   </url><url>
-    <loc>https://iscmueh.github.io/vi/members/me-duongquyloc/</loc>
+<<<<<<< HEAD
+    <loc>https://iscmueh.github.io/vi/members/intern-le-trung-ba-van/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iscmueh.github.io/members/me-duongquyloc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/members/me-duongquyloc/"
-                />
-  </url><url>
-    <loc>https://iscmueh.github.io/vi/members/intern-dao-pham/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/members/intern-dao-pham/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/members/intern-dao-pham/"
-                />
-  </url><url>
+                href="https://iscmueh.github.io/members/intern-le-trung-ba-van/"
+=======
     <loc>https://iscmueh.github.io/vi/</loc>
     <lastmod>2021-10-27T09:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://iscmueh.github.io/"
+>>>>>>> 6b83279024089181f90b75a17063d4cea38f804e
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
+<<<<<<< HEAD
+                href="https://iscmueh.github.io/vi/members/intern-le-trung-ba-van/"
+                />
+  </url><url>
+    <loc>https://iscmueh.github.io/vi/members/intern-hoang-van-long/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/members/intern-hoang-van-long/"
+=======
                 href="https://iscmueh.github.io/vi/"
                 />
   </url><url>
@@ -631,10 +665,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://iscmueh.github.io/event/"
+>>>>>>> 6b83279024089181f90b75a17063d4cea38f804e
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
+<<<<<<< HEAD
+                href="https://iscmueh.github.io/vi/members/intern-hoang-van-long/"
+                />
+  </url><url>
+    <loc>https://iscmueh.github.io/vi/members/intern-nguyen-anh-quan/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/members/intern-nguyen-anh-quan/"
+=======
                 href="https://iscmueh.github.io/vi/event/"
                 />
   </url><url>
@@ -647,10 +692,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://iscmueh.github.io/event/slogan/"
+>>>>>>> 6b83279024089181f90b75a17063d4cea38f804e
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
+<<<<<<< HEAD
+                href="https://iscmueh.github.io/vi/members/intern-nguyen-anh-quan/"
+                />
+  </url><url>
+    <loc>https://iscmueh.github.io/vi/</loc>
+    <lastmod>2021-11-09T19:00:00+00:00</lastmod>
+=======
                 href="https://iscmueh.github.io/vi/event/slogan/"
                 />
   </url><url>
@@ -692,6 +745,39 @@
                 hreflang="vi"
                 href="https://iscmueh.github.io/vi/event/international-webinar-toward-bldg/"
                 />
+  </url><url>
+    <loc>https://iscmueh.github.io/vi/categories/</loc>
+    <lastmod>2021-07-06T15:27:17+06:00</lastmod>
+>>>>>>> 6b83279024089181f90b75a17063d4cea38f804e
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/categories/"
+                />
+  </url><url>
+    <loc>https://iscmueh.github.io/vi/event/2021-masterorientation-day-vn/</loc>
+    <lastmod>2021-11-09T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iscmueh.github.io/vi/event/</loc>
+    <lastmod>2021-11-09T19:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/event/"
+                />
+  </url><url>
+    <loc>https://iscmueh.github.io/vi/event/tu-van-tuyen-sinh-vn/</loc>
+    <lastmod>2021-08-16T15:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iscmueh.github.io/vi/categories/</loc>
     <lastmod>2021-07-06T15:27:17+06:00</lastmod>
@@ -784,6 +870,9 @@
                 href="https://iscmueh.github.io/vi/event/webinar-blockchain-for-defi-cryptocurrency-blockchain-in-current-and-future-economy/"
                 />
   </url><url>
+<<<<<<< HEAD
+    <loc>https://iscmueh.github.io/vi/event/webinar-blockchain-for-defi-cryptocurrency-blockchain-in-current-and-future-economy/</loc>
+=======
     <loc>https://iscmueh.github.io/vi/event/international-summer-design-camp-2021-smart-design-city-for-zero-carbon-emission/</loc>
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -798,6 +887,7 @@
                 />
   </url><url>
     <loc>https://iscmueh.github.io/vi/event/tu-van-tuyen-sinh/</loc>
+>>>>>>> 6b83279024089181f90b75a17063d4cea38f804e
     <lastmod>2021-06-04T14:25:34+00:00</lastmod>
   </url><url>
     <loc>https://iscmueh.github.io/vi/event/the-opening-ceremony-of-the-city-science-lab-ho-chi-minh-city/</loc>
