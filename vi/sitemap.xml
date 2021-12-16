@@ -671,6 +671,58 @@
                 href="https://www.iscm.ueh.edu.vn/vi/members/intern-nguyen-anh-quan/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/</loc>
+    <lastmod>2021-12-16T19:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/event/2021-smartcity&#43;_webinar/</loc>
+    <lastmod>2021-12-16T19:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/event/2021-smartcity&#43;_webinar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2021-smartcity&#43;_webinar/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/event/</loc>
+    <lastmod>2021-12-16T19:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/event/2021-smartcity&#43;/</loc>
+    <lastmod>2021-12-15T19:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/event/2021-smartcity&#43;/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2021-smartcity&#43;/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/event/2021-ba-orientation-day/</loc>
     <lastmod>2021-11-30T19:00:00+00:00</lastmod>
     <xhtml:link
@@ -684,19 +736,6 @@
                 href="https://www.iscm.ueh.edu.vn/vi/event/2021-ba-orientation-day/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/</loc>
-    <lastmod>2021-11-30T19:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/event/2021-overview-of-smart-city-development/</loc>
     <lastmod>2021-11-30T19:00:00+00:00</lastmod>
     <xhtml:link
@@ -708,19 +747,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://www.iscm.ueh.edu.vn/vi/event/2021-overview-of-smart-city-development/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/event/</loc>
-    <lastmod>2021-11-30T19:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/event/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/event/2021-smart-sustainable-cities/</loc>
