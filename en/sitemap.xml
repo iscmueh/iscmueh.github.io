@@ -904,21 +904,8 @@
                 href="https://www.iscm.ueh.edu.vn/partner/wscf/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/event/2023-48/</loc>
-    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/event/2023-48/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/event/2023-48/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/</loc>
-    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
@@ -930,8 +917,11 @@
                 href="https://www.iscm.ueh.edu.vn/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/vung-tau-future-2024/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/</loc>
-    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
@@ -941,6 +931,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/event/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2023-48/</loc>
+    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2023-48/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/2023-48/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/2023-33/</loc>
