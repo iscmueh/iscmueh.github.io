@@ -2991,6 +2991,18 @@
                 href="https://www.iscm.ueh.edu.vn/course/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/expertnetwork/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/expertnetwork/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/expertnetwork/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/research/fostering-applied-science/</loc>
     <xhtml:link
                 rel="alternate"

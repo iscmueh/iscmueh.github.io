@@ -2994,6 +2994,18 @@
                 href="https://www.iscm.ueh.edu.vn/vi/contact/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/expertnetwork/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/expertnetwork/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/expertnetwork/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/author/mark-dinn/</loc>
     <xhtml:link
                 rel="alternate"
