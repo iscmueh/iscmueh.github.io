@@ -80,6 +80,8 @@
                 href="https://www.iscm.ueh.edu.vn/adjunctprofessors/prof-elena-marchigiani/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/network/barbara-piga/</loc>
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/members/dr-trinh-tu-anh/</loc>
     <xhtml:link
                 rel="alternate"
@@ -254,6 +256,8 @@
                 href="https://www.iscm.ueh.edu.vn/adjunctprofessors/dr-chinh-ho/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/network/dr-chinh-ho/</loc>
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/members/dr-ducsu-seo/</loc>
     <xhtml:link
                 rel="alternate"
@@ -391,6 +395,8 @@
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/members/dr-dong-su-yi/</loc>
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/network/dr-tri-dung-dang/</loc>
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/scholarship/international-phds/</loc>
     <xhtml:link
                 rel="alternate"
@@ -465,6 +471,8 @@
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/partner/trieste-uni/"
                 />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/network/dr-derlie-babiano/</loc>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/advisory/dr-khuat-viet-hung/</loc>
     <xhtml:link
@@ -564,6 +572,8 @@
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/members/dr-hoang-ngoc-lan/"
                 />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/network/dr-sheilah/</loc>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/activities/rtd-2022/</loc>
     <xhtml:link
@@ -777,19 +787,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/members/mar-steven/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/network/unai/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/network/unai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/network/unai/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/iotlink/</loc>
@@ -2805,19 +2802,6 @@
                 href="https://www.iscm.ueh.edu.vn/course_graduate/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/network/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/network/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/network/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/apps/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url><url>
@@ -2991,16 +2975,16 @@
                 href="https://www.iscm.ueh.edu.vn/course/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/expertnetwork/</loc>
+    <loc>https://www.iscm.ueh.edu.vn/network/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/expertnetwork/"
+                href="https://www.iscm.ueh.edu.vn/vi/network/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/expertnetwork/"
+                href="https://www.iscm.ueh.edu.vn/network/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/research/fostering-applied-science/</loc>
