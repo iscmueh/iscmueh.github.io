@@ -80,6 +80,8 @@
                 href="https://www.iscm.ueh.edu.vn/adjunctprofessors/prof-elena-marchigiani/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/network/barbara-piga/</loc>
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/members/dr-trinh-tu-anh/</loc>
     <xhtml:link
                 rel="alternate"
@@ -254,6 +256,8 @@
                 href="https://www.iscm.ueh.edu.vn/adjunctprofessors/dr-chinh-ho/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/network/dr-chinh-ho/</loc>
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/members/dr-ducsu-seo/</loc>
     <xhtml:link
                 rel="alternate"
@@ -267,6 +271,16 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/advisory/dr-park-young-june/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/advisory/dr-park-young-june/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/advisory/dr-park-young-june/"
+                />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/scholarship/graduate-international-students/</loc>
     <xhtml:link
@@ -381,6 +395,8 @@
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/members/dr-dong-su-yi/</loc>
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/network/dr-tri-dung-dang/</loc>
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/scholarship/international-phds/</loc>
     <xhtml:link
                 rel="alternate"
@@ -455,6 +471,8 @@
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/partner/trieste-uni/"
                 />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/network/dr-derlie-babiano/</loc>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/advisory/dr-khuat-viet-hung/</loc>
     <xhtml:link
@@ -554,6 +572,8 @@
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/members/dr-hoang-ngoc-lan/"
                 />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/network/dr-sheilah/</loc>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/activities/rtd-2022/</loc>
     <xhtml:link
@@ -769,19 +789,6 @@
                 href="https://www.iscm.ueh.edu.vn/members/mar-steven/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/network/unai/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/network/unai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/network/unai/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/iotlink/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -958,7 +965,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/</loc>
-    <lastmod>2024-03-04T15:27:17+06:00</lastmod>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
@@ -968,6 +975,32 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2024-03/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2024-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/2024-03/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/course_shortcourse/</loc>
@@ -983,6 +1016,19 @@
                 href="https://www.iscm.ueh.edu.vn/course_shortcourse/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2024-02/</loc>
+    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2024-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/2024-02/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/masterthailandtrip/</loc>
     <lastmod>2024-02-27T15:20:00+00:00</lastmod>
     <xhtml:link
@@ -994,19 +1040,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/event/masterthailandtrip/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/event/</loc>
-    <lastmod>2024-02-27T15:20:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/event/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/playzedu/</loc>
@@ -1048,6 +1081,123 @@
                 href="https://www.iscm.ueh.edu.vn/event/vung_tau_future_2024/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2024-01/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2024-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/2024-01/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2023-57/</loc>
+    <lastmod>2023-10-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2023-57/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/2023-57/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2023-55/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2023-55/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/2023-55/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2023-56/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2023-56/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/2023-56/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2023-53/</loc>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2023-53/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/2023-53/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2023-54/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2023-54/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/2023-54/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2023-51/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2023-51/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/2023-51/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2023-50/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2023-50/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/2023-50/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2023-49/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2023-49/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/2023-49/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/2023-48/</loc>
     <lastmod>2023-09-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1059,6 +1209,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/event/2023-48/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2023-52/</loc>
+    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2023-52/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/2023-52/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/2023-33/</loc>
@@ -2652,19 +2815,6 @@
                 href="https://www.iscm.ueh.edu.vn/course_graduate/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/network/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/network/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/network/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/apps/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url><url>
@@ -2836,6 +2986,18 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/course/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/network/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/network/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/network/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/research/fostering-applied-science/</loc>

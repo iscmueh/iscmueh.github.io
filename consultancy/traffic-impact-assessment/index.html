@@ -9,7 +9,7 @@
     content="Institute of Smart City and Management, University of Economics Ho Chi Minh">
   
   <meta name="author" content="ISCM">
-  <meta name="generator" content="Hugo 0.123.8">
+  <meta name="generator" content="Hugo 0.123.7">
   <!-- multilingual SEO optimizations -->
   
   
@@ -221,6 +221,10 @@
                   >Adjunct Professors</a
                 >
                 
+                <a class="dropdown-item" href="http://localhost:1313/network"
+                  >Expert Network</a
+                >
+                
               </div>
             </li>
               
@@ -324,14 +328,45 @@
       </div>
       
       <div class="col-12 mb-4">
-        <img style="height: 500px;width: 100%;object-fit: contain;" src="/images/consultancy/traffic-safety-03.png" alt="Traffic Impact Assessment" class="img-fluid w-100">
+        <img style="height: 500px;width: 100%;object-fit: cover;" src="/images/consultancy/traffic-safety-03.png" alt="Traffic Impact Assessment" class="img-fluid w-100">
       </div>
     </div>
     
     <div class="row">
-      <div class="text-justify col-12 mb-50 content">
+      <div class="col-12 mb-50 content">
         <p>A group of experienced and senior traffic engineers to help you conducting in-depth traffic impact assessment for your projects.</p>
 
+      </div>
+      <div class="col-lg-7 mb-4 mb-lg-0">
+        <form class="contact-form">
+          <input type="text" class="form-control mb-3" id="name" name="name" placeholder="Your Name">
+          <input type="email" class="form-control mb-3" id="email" name="email" placeholder="Your Email">
+          <input type="text" class="form-control mb-3" id="phone" name="phone" placeholder="Your Phone Number">
+          <input type="text" class="form-control mb-3" id="workplace" name="workplace" placeholder="Your Workplace/Study Place">
+          <input type="text" class="form-control mb-3" id="consultancyType" name="consultancyType" placeholder="Kinds of Consultancy">
+          <textarea name="question" id="question" class="form-control mb-3" placeholder="Your Question"></textarea>
+          <button type="submit" value="send" class="btn btn-primary">send message</button>
+        </form>
+        <script>
+          const form = document.getElementsByClassName("contact-form")[0];
+  
+          form.addEventListener("submit", (e) => {
+            e.preventDefault();
+  
+            let data = new FormData(form);
+            data.append("sheet", "Consultancy");
+  
+            fetch(
+              "https://script.google.com/macros/s/AKfycbzKzQlFFCMNVkDwdO1AQCO7lh1hx6CDCXW5SGV8lih0spj6XZUO5Xi7h59cFGFKQoHZCg/exec",
+              {
+                method: "POST",
+                body: data,
+              }
+            ).then(() => {
+              location.reload();
+            });
+          });
+        </script>
       </div>
     </div>
   </div>
