@@ -869,21 +869,8 @@
                 href="https://www.iscm.ueh.edu.vn/vi/partner/wscf/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/event/hoi_thao_kinh_te_so_2024/</loc>
-    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/event/hoi_thao_kinh_te_so_2024/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/event/hoi_thao_kinh_te_so_2024/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/</loc>
-    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -896,7 +883,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/event/</loc>
-    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -906,6 +893,32 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/event/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/event/2024-05/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/2024-05/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2024-05/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/event/hoi_thao_kinh_te_so_2024/</loc>
+    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/hoi_thao_kinh_te_so_2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/hoi_thao_kinh_te_so_2024/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/event/2024-04/</loc>
@@ -3212,7 +3225,7 @@
                 href="https://www.iscm.ueh.edu.vn/vi/research/route-2-school/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/event/launch-even-baud-bas/</loc>
+    <loc>https://www.iscm.ueh.edu.vn/vi/event/launch-even--baud-bas/</loc>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/notice/</loc>
     <xhtml:link

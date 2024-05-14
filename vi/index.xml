@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
-    <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.iscm.ueh.edu.vn/vi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Handong Global University</title>
@@ -84,7 +84,7 @@
       <link>https://www.iscm.ueh.edu.vn/vi/activities/event-2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.iscm.ueh.edu.vn/vi/activities/event-2022/</guid>
-      <description>&#xD;</description>
+      <description> </description>
     </item>
     <item>
       <title>Nội quy phòng Studiolab</title>
@@ -161,7 +161,7 @@
       <link>https://www.iscm.ueh.edu.vn/vi/activities/event-2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.iscm.ueh.edu.vn/vi/activities/event-2021/</guid>
-      <description>&#xD;</description>
+      <description> </description>
     </item>
     <item>
       <title>Sinh viên quốc tế sau đại học</title>
@@ -350,7 +350,7 @@
       <link>https://www.iscm.ueh.edu.vn/vi/members/sandhya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.iscm.ueh.edu.vn/vi/members/sandhya/</guid>
-      <description>&#xD;Giảng Dạy Basic Studiolab 3 Basic Studiolab 5 Tiểu Sử Nghiên Cứu và Học Thuật Phó Giáo sư, Dayananda Sagar College of Architecture (Tháng 1, 2017 - 2022) Đồng sáng lập, Citylab*BLR (Tháng 8, 2015 - 2020) Cộng tác viên chính ở Ấn Độ, Citymakers (Barcelona) (Tháng 8, 2018 - nay) </description>
+      <description> Giảng Dạy Basic Studiolab 3 Basic Studiolab 5 Tiểu Sử Nghiên Cứu và Học Thuật Phó Giáo sư, Dayananda Sagar College of Architecture (Tháng 1, 2017 - 2022) Đồng sáng lập, Citylab*BLR (Tháng 8, 2015 - 2020) Cộng tác viên chính ở Ấn Độ, Citymakers (Barcelona) (Tháng 8, 2018 - nay) </description>
     </item>
     <item>
       <title>VISCO</title>
@@ -519,6 +519,13 @@
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       <guid>https://www.iscm.ueh.edu.vn/vi/partner/wscf/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>VÀ ĐÓ LÀ KHOẢNH KHẮC KHÉP LẠI CỦA LỚP HỌC THỬ 2024</title>
+      <link>https://www.iscm.ueh.edu.vn/vi/event/2024-05/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/vi/event/2024-05/</guid>
+      <description>Phụ huynh, Giảng viên, Học sinh và Sinh viên tham dự chương trình Lớp học thử 2024</description>
     </item>
     <item>
       <title>HỘI THẢO NGHIÊN CỨU PHÁT TRIỂN KINH TẾ SỐ TP. HỒ CHÍ MINH: NỖ LỰC HƯỚNG TỚI ĐÔ THỊ THÔNG MINH VÀ BỀN VỮNG</title>
@@ -1649,9 +1656,9 @@
     </item>
     <item>
       <title>Sự Kiện Ra Mắt Chương Trình Song Bằng BAUD - BAS</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/event/launch-even-baud-bas/</link>
+      <link>https://www.iscm.ueh.edu.vn/vi/event/launch-even--baud-bas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/event/launch-even-baud-bas/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/vi/event/launch-even--baud-bas/</guid>
       <description>About Event Vào ngày 3 tháng 9 vừa qua, Viện Đô thị Thông minh và Quản lý (ISCM), Trường ĐH Kinh tế TP.</description>
     </item>
     <item>
