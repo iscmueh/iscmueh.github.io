@@ -873,7 +873,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/</loc>
-    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -883,6 +883,32 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/news/2024-08/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/2024-08/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/news/2024-08/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/news/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/news/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/event/</loc>
@@ -913,19 +939,6 @@
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/news/2024-07/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/news/</loc>
-    <lastmod>2024-05-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/news/"
-                />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/event/2024-05/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
