@@ -465,18 +465,6 @@
                 href="https://www.iscm.ueh.edu.vn/vi/members/dr-hoang-ngoc-lan/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/advisory/dr-khuat-viet-hung/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/advisory/dr-khuat-viet-hung/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/advisory/dr-khuat-viet-hung/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/course_shortcourse/sc-e-government/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -822,18 +810,6 @@
                 href="https://www.iscm.ueh.edu.vn/vi/partner/unesco/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/members/mar-thangtrinh/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/members/mar-thangtrinh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/members/mar-thangtrinh/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/partner/witl/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -872,8 +848,21 @@
                 href="https://www.iscm.ueh.edu.vn/vi/partner/wscf/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/news/studioarchitechture1_k49ueh/</loc>
+    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/studioarchitechture1_k49ueh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/news/studioarchitechture1_k49ueh/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/</loc>
-    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -883,6 +872,19 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/news/</loc>
+    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/news/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/news/2024-08/</loc>
@@ -896,19 +898,6 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/news/2024-08/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/news/</loc>
-    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/news/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/event/</loc>
@@ -3171,18 +3160,6 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/course/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/members/le-gia-han/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/members/le-gia-han/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/members/le-gia-han/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/contact/</loc>
