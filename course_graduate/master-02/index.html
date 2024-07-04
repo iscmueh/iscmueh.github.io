@@ -8,7 +8,6 @@
   <meta name="description"
     content="Institute of Smart City and Management, University of Economics Ho Chi Minh">
   
-  <meta name="author" content="ISCM">
   <meta name="generator" content="Hugo 0.121.1">
   <!-- multilingual SEO optimizations -->
   
@@ -138,8 +137,30 @@
               <a class="nav-link" href="https://www.iscm.ueh.edu.vn/about">About</a>
             </li>
               
-            <li class="nav-item align-self-lg-stretch" style="display: flex; align-items: center;">
-              <a class="nav-link" href="https://www.iscm.ueh.edu.vn/event">News &amp; Events</a>
+            <li class="nav-item dropdown align-self-lg-stretch" style="display: flex; align-items: center;">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-toggle="dropdown"
+              >
+                News &amp; Events
+              </a>
+              <div class="dropdown-menu">
+                
+                <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/news"
+                  >News</a
+                >
+                
+                <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/event"
+                  >Events</a
+                >
+                
+                <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/"
+                  >Admission</a
+                >
+                
+              </div>
             </li>
               
             <li class="nav-item dropdown align-self-lg-stretch" style="display: flex; align-items: center;">
@@ -153,16 +174,16 @@
               </a>
               <div class="dropdown-menu">
                 
-                <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/course_shortcourse"
-                  >Short Course</a
-                >
-                
                 <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/course_undergraduate"
                   >Undergraduate</a
                 >
                 
                 <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/course_graduate"
                   >Graduate</a
+                >
+                
+                <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/course_shortcourse"
+                  >Short Course</a
                 >
                 
               </div>
@@ -442,7 +463,7 @@
     </div>
     
     <div class="row flex-column align-items-center">
-      <h2>Contact information for queries:</h2>
+      <h2>Contact information for queries</h2>
       <form class="contact-form col-12 col-md-6">
         <div>
           <label for="name">Full name</label>
@@ -450,7 +471,7 @@
             type="text"
             name="name"
             id="name"
-            placeholder="Enter your fullname"
+            placeholder="Enter your full name"
           />
         </div>
         <div>
@@ -477,7 +498,7 @@
             type="text"
             name="workplace"
             id="work-place"
-            placeholder="Enter your Work Place/ Study Place"
+            placeholder="Enter your work place/ study place"
           />
         </div>
         <div>
@@ -493,13 +514,13 @@
       </form>
       <script>
         const form = document.getElementsByClassName("contact-form")[0];
-
+  
         form.addEventListener("submit", (e) => {
           e.preventDefault();
-
+  
           let data = new FormData(form);
-          data.append("sheet", "Graduate");
-
+          data.append("sheet", "Undergraduate");
+  
           fetch(
             "https://script.google.com/macros/s/AKfycbyVJApSU_6-Zts9Px9fyrRAT3vZr0n-PrTB8mz2kAuTQ4TbVTxaOHrjxGnrSxKsz4toow/exec",
             {
