@@ -848,21 +848,38 @@
                 href="https://www.iscm.ueh.edu.vn/vi/partner/wscf/"
                 />
   </url><url>
+<<<<<<< HEAD
     <loc>https://www.iscm.ueh.edu.vn/vi/event/03072024/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/event/03072024/"
+=======
+    <loc>https://www.iscm.ueh.edu.vn/vi/news/studioarchitechture1_k49ueh/</loc>
+    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/studioarchitechture1_k49ueh/"
+>>>>>>> 1df7e0607f7b63be3b16f217a9caa49603cce12b
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
+<<<<<<< HEAD
                 href="https://www.iscm.ueh.edu.vn/vi/event/03072024/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+=======
+                href="https://www.iscm.ueh.edu.vn/vi/news/studioarchitechture1_k49ueh/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/</loc>
+    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
+>>>>>>> 1df7e0607f7b63be3b16f217a9caa49603cce12b
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -874,8 +891,38 @@
                 href="https://www.iscm.ueh.edu.vn/vi/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/news/</loc>
+    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/news/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/news/2024-08/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/2024-08/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/news/2024-08/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/event/</loc>
+<<<<<<< HEAD
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+=======
+    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+>>>>>>> 1df7e0607f7b63be3b16f217a9caa49603cce12b
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -887,6 +934,7 @@
                 href="https://www.iscm.ueh.edu.vn/vi/event/"
                 />
   </url><url>
+<<<<<<< HEAD
     <loc>https://www.iscm.ueh.edu.vn/vi/news/studioarchitechture1_k49ueh/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -926,6 +974,8 @@
                 href="https://www.iscm.ueh.edu.vn/vi/news/2024-08/"
                 />
   </url><url>
+=======
+>>>>>>> 1df7e0607f7b63be3b16f217a9caa49603cce12b
     <loc>https://www.iscm.ueh.edu.vn/vi/event/2024-06/</loc>
     <lastmod>2024-06-04T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -3143,7 +3193,11 @@
                 href="https://www.iscm.ueh.edu.vn/vi/research/route-2-school/"
                 />
   </url><url>
+<<<<<<< HEAD
     <loc>https://www.iscm.ueh.edu.vn/vi/news/launch-even-baud-bas/</loc>
+=======
+    <loc>https://www.iscm.ueh.edu.vn/vi/news/launch-even--baud-bas/</loc>
+>>>>>>> 1df7e0607f7b63be3b16f217a9caa49603cce12b
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/notice/</loc>
     <xhtml:link
