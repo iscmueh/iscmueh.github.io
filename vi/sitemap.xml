@@ -848,21 +848,21 @@
                 href="https://www.iscm.ueh.edu.vn/vi/partner/wscf/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/event/03072024/</loc>
-    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+    <loc>https://www.iscm.ueh.edu.vn/vi/event/rtd_2024/</loc>
+    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/event/03072024/"
+                href="https://www.iscm.ueh.edu.vn/event/rtd_2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/event/03072024/"
+                href="https://www.iscm.ueh.edu.vn/vi/event/rtd_2024/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/</loc>
-    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -874,8 +874,21 @@
                 href="https://www.iscm.ueh.edu.vn/vi/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/event/rtd_2024_introduce/</loc>
+    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/rtd_2024_introduce/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/rtd_2024_introduce/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/event/</loc>
-    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -886,6 +899,9 @@
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/event/"
                 />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/event/03072024/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/news/studioarchitechture1_k49ueh/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
